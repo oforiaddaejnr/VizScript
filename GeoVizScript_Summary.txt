@@ -1,0 +1,20 @@
+Project Title: 
+GQ_VizScript
+
+Description: 
+Python script which takes a GeoQuery extract zip file as an input, and creates a well-styled choropleth map as an output.
+
+General Guidelines:
+This project aims to produce a single python script with minimal dependencies.  
+This script should be callable from the command line, with three specified options at minimum (input and output file, column to visualize). 
+When run, it should take as an input a single zip file created through geoquery.org, and output a single PNG or PDF map (pick one to start).
+
+
+Provided Resources:
+In the folder "Example_IO", there are two files.
+The file "output_example" is an example of what an output might look like after being processed by the script.
+The file "
+
+Client:
+GeoData team lead for map look/feel.
+Dan Runfola 

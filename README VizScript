@@ -1,0 +1,4 @@
+NB:Run this with Python 2. Some of the modules have problems working in Python 3
+Make sure the VizScript.py file is in the same directory as the zip file
+After you navigate to the directory containing the VizScript.py and zip file, pass VizScript.py
+as the first argument and the zip file you want to visualize as the second argument and run
